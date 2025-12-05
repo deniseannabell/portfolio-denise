@@ -1,0 +1,11 @@
+/* HERO BACKGROUND */
+.hero {
+    min-height: 100vh;
+    background: url("assets/bg.jpg") center/cover no-repeat;
+    padding-top: 100px;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
